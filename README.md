@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sanjay ts! <br/><a href="https://www.linkedin.com/in/sanjay-ts-111a7b191/">Cybersecurity Professional Certified ethical hacker(v12) </a></h1>
+<h1>Hi, I'm Sanjay ts! <br/><a href="https://www.linkedin.com/in/sanjay-ts-111a7b191/">Cybersecurity Professional / Certified ethical hacker(v12) </a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
