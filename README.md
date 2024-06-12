@@ -1,11 +1,9 @@
-<h1>Hi, I'm Sanjay ts! <br/><a href="https://www.linkedin.com/in/sanjay-ts-111a7b191/">Cybersecurity researcher  / Certified ethical hacker(v12) </a></h1>
+<h1>Hi, I'm Sanjay ts! <br/><a href="https://www.linkedin.com/in/sanjay-ts-111a7b191/">Cybersecurity Rsearcher  / Certified ethical hacker(v12) </a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: (https://x.com/sanjus_sanjay?t=CBY6kRO5B0bNAfh8DM5cHw&s=09)
 [linkedin]: https://www.linkedin.com/in/sanjay-ts-111a7b191/
 
 <!--
